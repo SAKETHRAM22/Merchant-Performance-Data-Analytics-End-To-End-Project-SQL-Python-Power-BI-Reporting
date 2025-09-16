@@ -129,5 +129,5 @@ Refer to `requirements.txt` for exact package versions.
 ## 🙋 Contact
 
 **Saif Shaikh**
-📧 [saif81868@gmail.com](mailto:saif81xx68@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/saif-shaikh-527346251)
+📧 [saif81868@gmail.com](mailto:ramsaketh2005@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sakethram1/)
