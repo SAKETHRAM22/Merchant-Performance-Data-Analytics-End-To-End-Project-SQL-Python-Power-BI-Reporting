@@ -131,5 +131,5 @@ Refer to `requirements.txt` for exact package versions.
 ## 🙋 Contact
 
 **Sanka Saketh Ram**
-📧 [ramsaketh2005@gmail.com@gmail.com](mailto:ramsaketh2005@gmail.com)
+📧 [ramsaketh2005@gmail.com](mailto:ramsaketh2005@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/sakethram1/)
