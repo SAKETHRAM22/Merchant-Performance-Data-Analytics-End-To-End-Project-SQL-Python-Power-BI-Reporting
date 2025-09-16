@@ -122,7 +122,7 @@ Refer to `requirements.txt` for exact package versions.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Dashboard/images/Dashboard_preview.png)
+![New Dashboard Preview](Dashboard/images/Dashboard_preview (1).png)
 
 ---
 
