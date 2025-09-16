@@ -130,6 +130,6 @@ Refer to `requirements.txt` for exact package versions.
 
 ## 🙋 Contact
 
-**Saif Shaikh**
-📧 [saif81868@gmail.com](mailto:ramsaketh2005@gmail.com)
+**Sanka Saketh Ram**
+📧 [ramsaketh2005@gmail.com@gmail.com](mailto:ramsaketh2005@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/sakethram1/)
